@@ -19,7 +19,7 @@ Let’s learn, share, and grow together! 😊
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ii887742@gmail.com)](mailto:ii887742@gmail.com)
 
 
-<div align=center><h3>📚 Tech Stack</h3></div>
+<div align=center><h3>⚒️ Tech Stack</h3></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
