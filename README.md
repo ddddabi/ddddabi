@@ -1,8 +1,23 @@
-<!--### Hi, my name is dabin jung. 👋-->
 
-<h1>DA BIN JUNG 👋</h1>
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=📚%20Eternal%20Learner&fontAlignY=40&color=gradient&fontSize=50)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddddabi&show_icons=true&theme=radical)
+## 👋 Hi, I'm Dabin Jung!
+
+Endlessly curious and eager to explore, I'm always looking for new challenges — big or small.  My goal is to become a **bridge between development and security**, somewhere in between where those two worlds meet.
+
+Once I commit to something, I make sure to see it through with full responsibility.
+
+Outside of work, I enjoy traveling, connecting with people, and sharing stories.  
+One day, I dream of exploring the world with nothing but a backpack. 🎒🌍
+
+Let’s learn, share, and grow together! 😊
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%EB%8B%A4%EB%B9%88-%EC%A0%95-b36097354)
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@davin_xx/posts)](https://velog.io/@davin_xx/posts)
+[![Tistory](https://img.shields.io/badge/Tistory-FC9D34?style=flat-square&logo=tistory&logoColor=white)](https://biny-j.tistory.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ii887742@gmail.com)](mailto:ii887742@gmail.com)
+
 
 <div align=center><h3>📚 Tech Stack</h3></div>
 
@@ -53,5 +68,9 @@
   <br>
     -->
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddddabi&show_icons=true&theme=radical)
+
+[![Thank U](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fddddabi?color=purple&label=Thank%20U&size=small)](https://github.com/ddddabi)
 
 
