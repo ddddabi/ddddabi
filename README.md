@@ -57,7 +57,7 @@ Let’s learn, share, and grow together! 😊
 
 <br/>
 
-| <a href="https://github.com/ddddabi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ddddabi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ddddabi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddddabi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ddddabi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ddddabi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&count_private=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/ddddabi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddddabi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
